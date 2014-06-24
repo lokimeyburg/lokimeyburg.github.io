@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Loki Meyburg
+tagline:          'Building products that customers love'
+description:      'Building products that customers love'
+url:              http://www.lokimeyburg.com
+paginate:         2
+
+author:
+  name:           'Loki Meyburg'
+  url:            https://twitter.com/lokimeyburg
+
+baseurl:          '/'
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/lokimeyburg/home

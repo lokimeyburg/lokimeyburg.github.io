@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<article class="post post-type-text">
+  <header class="post-header">
+    <h1 class="post-title">
+      {{ page.title }}
+    </h1><!-- /.post-title -->
+    <ul class="post-meta">
+      <li class="post-meta-time">
+        <a href="/post/">Posted on {{ page.date | date_to_string }}</a>
+      </li><!-- /.post-meta-time -->
+    </ul>
+  </header><!-- /.post-header -->
+  <div class="post-body wysiwyg">
+    {{ content }}
+  </div><!-- /.post-body -->
+</article><!-- /.post -->
