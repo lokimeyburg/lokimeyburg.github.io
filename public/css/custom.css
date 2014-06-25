@@ -374,7 +374,8 @@ a.pagination-item:hover {
 }
 
 .portfolio-row {
-  margin-bottom: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .portfolio-row:after {
@@ -400,12 +401,25 @@ a.pagination-item:hover {
   font-size: 0.91em;
 }
 
+/* Seperator Heading */
+.seperator-heading {
+  text-align: center;
+  background: -moz-linear-gradient(#ffffff 0%, #ffffff 49%, #000000 50%, #000000 51%, #ffffff 52%, #ffffff 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(49%, #ffffff), color-stop(50%, #777777), color-stop(51%, #777777), color-stop(52%, #ffffff), color-stop(100%, #ffffff));
+  background: -webkit-linear-gradient(#ffffff 0%, #ffffff 49%, #777777 50%, #777777 51%, #ffffff 52%, #ffffff 100%);
+  background: -o-linear-gradient(#ffffff 0%, #ffffff 49%, #777777 50%, #777777 51%, #ffffff 52%, #ffffff 100%);
+  background: linear-gradient(#ffffff 0%, #ffffff 49%, #777777 50%, #777777 51%, #ffffff 52%, #ffffff 100%);
+}
 
+.seperator-heading span{
+  padding: 0px 15px;
+  background: #fff;
+  font-size: 16px;
+  line-height: 32px;
+  color: #777777;
+}
 
 @media screen and (max-width: 640px){
-  .homepage h4 {
-   color: #999;
-  }
 
   .portfolio-row {
     /* text-align: center; */
@@ -413,10 +427,11 @@ a.pagination-item:hover {
 
   .portfolio-image {
    width: 100%;
+   text-align: center;
   }
 
   .portfolio-image img {
-    width: 50%;
+    width: 40%;
     min-width: 28%;
     margin-bottom: 30px;
   }
@@ -428,4 +443,8 @@ a.pagination-item:hover {
     padding-left: 0px;
     font-size: 0.95em;
   }
+}
+
+.img-circle {
+  border-radius: 100px;
 }
