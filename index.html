@@ -14,7 +14,7 @@ title: Home
 <article class="post post-type-text">
   <div class="post-body wysiwyg homepage">
     <h4 class="seperator-heading"><span>Work</span></h4>
-    <p>My professional background is in business and product management: I make sure we're building the right thing. That means I spend most of my time understanding other people's problems. I've also been writing software for over 10 years - these days mostly as a hobby. Here's a list of my most recent work:</p>
+    <p>My professional background is in business and product management. I make sure we're building the right thing - that means I spend most of my time understanding other people's problems. I've also been writing software for over 10 years - these days mostly as a hobby. Here's a list of my most recent work:</p>
     <br />
     <div class="portfolio-row">     
       <div class="portfolio-image">
@@ -22,7 +22,7 @@ title: Home
       </div>
 
       <div class="portfolio-content">
-        <strong><a href='https://medeo.ca' target="_blank">Medeo</a></strong>, short for "medical video", let's people in healthcare see their patients online. I was the first employee. Today I manage two products at Medeo: the virtual clinic and the SaaS app for healthcare providers. <a href='http://blog.medeo.ca/dont-just-take-our-word-for-it/' target="_blank">People love Medeo.</a>
+        <strong><a href='https://medeo.ca' target="_blank">Medeo</a></strong>, short for "medical video", let's people in healthcare see their patients online. I was the first employee. Today I manage two products at Medeo: the virtual clinic and the SaaS app for healthcare providers. <a href='http://blog.medeo.ca/dont-just-take-our-word-for-it/' target="_blank">People love using Medeo.</a>
       </div>
     </div>
     <div class="portfolio-row">     
@@ -48,26 +48,3 @@ title: Home
   </div><!-- /.post-body -->
 </article><!-- /.post -->
 
-
-<h4 class="seperator-heading"><span>Articles</span></h4>
-
-
-<div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post post-type-text">
-    <header class="post-header">
-      <h1 class="post-title">
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </h1><!-- /.post-title -->
-      <ul class="post-meta">
-        <li class="post-meta-time">
-          <a href="/post/">Posted on {{ post.date | date_to_string }}</a>
-        </li><!-- /.post-meta-time -->
-      </ul>
-    </header><!-- /.post-header -->
-    <div class="post-body wysiwyg">
-      {{ post.content }}
-    </div><!-- /.post-body -->
-  </article><!-- /.post -->
-  {% endfor %}
-</div>
