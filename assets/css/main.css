@@ -39,6 +39,10 @@ a{
   color: #57A3E8;
 }
 
+.blog-description{
+  max-width: 610px;
+  margin: 0 auto;
+}
 
 .blog-logo img {
   display: block;
