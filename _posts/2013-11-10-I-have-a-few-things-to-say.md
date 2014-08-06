@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I finally have a few things to say and show..."
+title:  "I finally have a few things to say (and show)..."
 date:   2013-08-05 10:18:00
 ---
 
