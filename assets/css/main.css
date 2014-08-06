@@ -1,0 +1,133 @@
+/* Rosario. I've added and changed few things. Feel free to change it as you like */
+
+/* Font size of 2.0 is too big, I'll reduce it */
+body {font-size: 1.9rem;}
+
+/* Adding some text shadow*/
+.site-head {text-shadow: 1px 1px 1px #234;}
+.site-head a {color:#eee;}
+
+/* The font is too large in the post view. Revert to small size*/
+.post-header .blog-title {font-size:inherit;}
+
+/* Reduce font size and add line-height*/
+pre{
+	font-size: 0.75em;  
+	line-height: 1.4em;
+}
+
+/* Author styling */
+.author {margin-bottom:1em;}
+.author header{
+	float:left;
+	width: 80px;
+}
+.author article{
+	margin-left:80px;
+	min-height: 80px;
+	padding-left:20px;
+}
+img.profile {
+	width:80px;
+	height:auto;
+  	border-radius: 50px;
+}
+
+
+/*------------------------ CUSTOM OVERRIDES ------------------------- */
+a{
+  color: #57A3E8;
+}
+
+
+.blog-logo img {
+  display: block;
+  height: 90px;
+    width: 90px;
+  margin: 0 auto;
+  border-radius: 100px;
+  border: 4px solid rgba(255,255,255,0.7);
+  -moz-box-shadow:    0px 2px 4px 0px rgba(0,0,0,0.5);
+  -webkit-box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.5);
+  box-shadow:         0px 2px 4px 0px rgba(0,0,0,0.5);
+}
+
+@media only screen and (max-width: 500px) {
+  .blog-logo img {
+    max-height: inherit;
+  }
+}
+
+
+.portfolio-row {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.portfolio-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.portfolio-image {
+  float: left;
+  width: 28%;
+}
+
+.portfolio-image img {
+   width: 100%;
+}
+
+.portfolio-content {
+  float: right;
+  padding-left: 30px;
+  box-sizing: border-box;
+  width: 72%;
+  font-size: 0.91em;
+}
+
+/* Seperator Heading */
+.seperator-heading {
+  text-align: center;
+  background: -moz-linear-gradient(#ffffff 0%, #ffffff 49%, #B4BBBE 50%, #B4BBBE 51%, #ffffff 52%, #ffffff 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(49%, #ffffff), color-stop(50%, #B4BBBE), color-stop(51%, #B4BBBE), color-stop(52%, #ffffff), color-stop(100%, #ffffff));
+  background: -webkit-linear-gradient(#ffffff 0%, #ffffff 49%, #B4BBBE 50%, #B4BBBE 51%, #ffffff 52%, #ffffff 100%);
+  background: -o-linear-gradient(#ffffff 0%, #ffffff 49%, #B4BBBE 50%, #B4BBBE 51%, #ffffff 52%, #ffffff 100%);
+  background: linear-gradient(#ffffff 0%, #ffffff 49%, #B4BBBE 50%, #B4BBBE 51%, #ffffff 52%, #ffffff 100%);
+}
+
+.seperator-heading span{
+  padding: 0px 15px;
+  background: #fff;
+  font-size: 16px;
+  line-height: 32px;
+  color: #B4BBBE;
+}
+
+@media screen and (max-width: 640px){
+
+  .portfolio-row {
+    /* text-align: center; */
+  }
+
+  .portfolio-image {
+   width: 100%;
+   text-align: center;
+  }
+
+  .portfolio-image img {
+    width: 40%;
+    min-width: 28%;
+    margin-bottom: 30px;
+  }
+
+
+  .portfolio-content {
+    float: none;
+    width: inherit;
+    padding-left: 0px;
+    font-size: 0.95em;
+  }
+}
+

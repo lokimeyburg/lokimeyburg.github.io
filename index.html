@@ -1,50 +1,102 @@
 ---
-layout: home 
+layout: default
 title: Home
+cover: false
+about: 'about.html'
+logo: '/assets/images/profile.jpg'
 ---
-<p style='text-align: center;'>
-  <a href='/assets/lokimeyburg.jpg' target="_blank"><img class="img-circle" src="/assets/lokimeyburg-avatar.jpg" width="60" height="60" alt="Loki Meyburg" /></a>
-</p>
 
-<h4 class="seperator-heading"><span>Loki Meyburg</span></h4>
-<p>
-  Product manager at <a href="https://www.medeo.ca" target="_blank">Medeo</a>. Creator of <a href="https://www.skypay.io" target="_blank">SkyPay</a>. I plan to leave the world in a better place than I found it. You should <a href='http://twitter.com/lokimeyburg' target="_blank">follow me on Twitter</a>.
-</p>
+<header class="site-head" {% if page.cover %} style="background-image: url({{ page.cover }})"{% endif %}>
+    <div class="vertical">
+        <div class="site-head-content" class="inner">
+            {% if page.logo %}
+                <a class="blog-logo" href="{{ site.baseurl }}">
+                    <img src="{{ page.logo }}" alt="Blog Logo" />
+                </a>
+            {% endif %}
+            <h1 class="blog-title">{{ site.name }}</h1>
+            <h2 class="blog-description"> 
+                This is where I (will) write about UI design and product management. <br />
+                In the meantime, you should <a href='https://twitter.com/lokimeyburg' target="_blank">follow me on Twitter</a>.
+            </h2>
+        </div>
+    </div>
+</header>
 
-<article class="post post-type-text">
-  <div class="post-body wysiwyg homepage">
-    <h4 class="seperator-heading"><span>Work</span></h4>
-    <p>My professional background is in business and product management. I make sure we're building the right thing - that means I spend most of my time understanding other people's problems. I've also been writing software for over 10 years - these days mostly as a hobby. Here's a list of my most recent work:</p>
-    <br />
+
+<main class="content" role="main">
+  <article class="homepage-blurb">
+    <h4 class="seperator-heading" style="margin-bottom: 30px;"><span>Work</span></h4>
+    I was the first employee at Medeo and I've been helping grow our team ever since. I've also been writing software for over 10 years - these days mostly as a hobby. Here's a list of my most recent work:
+
     <div class="portfolio-row">     
       <div class="portfolio-image">
-        <a href='https://medeo.ca' target="_blank"><img src="/assets/medeo.png" /></a>
+        <a href='https://medeo.ca/index.html' target="_blank"><img src="/assets/images/medeo.png" /></a>
       </div>
 
       <div class="portfolio-content">
-        <strong><a href='https://medeo.ca' target="_blank">Medeo</a></strong>, short for "medical video", let's people in healthcare see their patients online. I was the first employee. <a href='http://blog.medeo.ca/dont-just-take-our-word-for-it/' target="_blank">People love using Medeo.</a>
+        <strong><a href='https://medeo.ca/index.html' target="_blank">Medeo</a></strong>, short for "medical video", let's people in healthcare see their patients online. I'm currently the product manager. Also, <a href='http://blog.medeo.ca/dont-just-take-our-word-for-it/' target="_blank">people love using Medeo.</a>
       </div>
     </div>
+    <!-- <div class="portfolio-row"> -->     
+    <!--   <div class="portfolio-image"> -->
+    <!--     <a href='https://www.skypay.io' target="_blank"><img src="/assets/images/skypay.png" /></a> -->
+    <!--   </div> -->
+
+    <!--   <div class="portfolio-content"> -->
+    <!--     <strong><a href='https://www.skypay.io' target="_blank">SkyPay</a></strong> strives to be the simplest way to sell online. I started SkyPay to help other entrepreneurs make money selling their creations to their fans. --> 
+    <!--   </div> -->
+    <!-- </div> -->
+
     <div class="portfolio-row">     
       <div class="portfolio-image">
-        <a href='https://www.skypay.io' target="_blank"><img src="/assets/skypay.png" /></a>
-      </div>
-
-      <div class="portfolio-content">
-        <strong><a href='https://www.skypay.io' target="_blank">SkyPay</a></strong> strives to be the simplest way to sell online. I designed and developed SkyPay to help other entrepreneurs make money selling their creations to their fans. 
-      </div>
-    </div>
-
-    <div class="portfolio-row">     
-      <div class="portfolio-image">
-        <a href='http://www.lokimeyburg.com/Stacker/' target="_blank"><img src="/assets/stacker.png" /></a>
+        <a href='http://www.lokimeyburg.com/Stacker/' target="_blank"><img src="/assets/images/stacker.png" /></a>
       </div>
 
       <div class="portfolio-content">
         <strong><a href='http://www.lokimeyburg.com/Stacker/' target="_blank">Stacker</a></strong> helps kickstart the development of hybrid native/web iPhone apps. I just recently released Stacker as an open source project. 
       </div>
     </div>
+</main>
 
-  </div><!-- /.post-body -->
-</article><!-- /.post -->
 
+<main class="content" role="main">
+    <article class="homepage-blurb">
+
+      <h4 class="seperator-heading"><span>Articles</span></h4>
+    </article>
+
+    {% for post in paginator.posts %}
+
+    <article class="post">
+        <header class="post-header">
+            <span class="post-meta"><time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date_to_string }}</time> {{!tags prefix="on "}}</span>
+            <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+        </header>
+        <section class="post-excerpt">
+            {{ post.excerpt }}
+        </section>
+    </article>
+
+    {% endfor %}
+
+    <nav class="pagination" role="pagination">
+
+        {% if paginator.previous_page %}
+          {% if paginator.previous_page == 1 %}
+          <a class="newer-posts" href="/" title="Previous Page">&laquo; Newer Posts</a>
+          {% else %}
+          <a class="newer-posts" href="/page{{ paginator.previous_page }}/" title="Previous Page">&laquo; Newer Posts</a>
+          {% endif %}
+        {% endif %}
+
+        <span class="page-number"> Page {{paginator.page}} of {{paginator.total_pages}} </span>
+        
+        {% if paginator.next_page %} 
+        <a class="older-posts" href="/page{{ paginator.next_page }}/" title="Next Page">Older Posts &raquo;</a>
+        {% endif %} 
+    </nav>
+    
+
+</main>

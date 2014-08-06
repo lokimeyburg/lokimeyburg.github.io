@@ -1,25 +1,14 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+name: Loki Meyburg
+description: "This is where I write about UI design and product management"
+meta_description: "Building great things"
 
-# Permalinks
-permalink:        pretty
+markdown: redcarpet
+pygments: true
+logo: false
+paginate: 15
 
-# Setup
-title:            Loki Meyburg
-tagline:          'Building products that customers love'
-description:      'Building products that customers love'
-url:              http://www.lokimeyburg.com
-paginate:         2
+baseurl: '/'
 
-author:
-  name:           'Loki Meyburg'
-  url:            https://twitter.com/lokimeyburg
-
-baseurl:          '/'
-
-# Custom vars
-version:          1.0.0
-
-github:
-  repo:           https://github.com/lokimeyburg/home
+# Details for the RSS feed generator
+url:            'http://www.lokimeyburg.com'
+author:         'Loki Meyburg'
