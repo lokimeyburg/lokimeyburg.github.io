@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I finally have a few things to say (and show)..."
-date:   2013-08-05 10:18:00
+date:   2014-08-15 10:18:00
 ---
 
 Welcome to my new home on the Internet and my first big open source project [Stacker](http://www.lokimeyburg.com/Stacker/). Jay-Z once said:
