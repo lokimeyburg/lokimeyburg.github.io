@@ -9,7 +9,7 @@ I recently got the product team at [Medeo](https://medeo.ca/) to agree on our 6 
 ![Medeo Product Principles 2](/assets/images/articles/product-principles-2.png)
 
 
-### Bring your thinking together 
+## Bring your thinking together 
 
 Everyone has an opinion about the product - it’s usually the product that attracted them to work at the company in the first place - and everyone feels they are on some level (or think they understand) the target customer.
 
@@ -20,9 +20,9 @@ Here’s what I learned: almost everyone’s opinion is correct, we’re just ar
 ![Medeo Product Principles 1](/assets/images/articles/product-principles-1.png)
 
 
-### Standing behind your principles
+## Standing behind your principles
 
-Creating a set of product principles gets everyone on the same page. We now have a much clearer picture of what you believe in and what is important to us as a team.
+Creating a set of product principles gets everyone on the same page. We now have a much clearer picture of what we believe in and what is important to us as a team.
 
 It is extremely important to take prioritization seriously— you should get the team to agree on the specific ordering. Most to least important. Every time we disagree about a new feature we can point to our product principles and say that we agreed it’s more important the product be “this" over “that”.
 
