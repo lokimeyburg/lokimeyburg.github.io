@@ -4,7 +4,7 @@ title:  "Why your product team needs a manifesto"
 date:   2014-09-16 10:18:00
 ---
 
-I recently got the product team at Medeo to agree on our 6 "product principles” that guide how we build products. We got them printed to put on our walls. These principles have become our manifesto.
+I recently got the product team at [Medeo](https://medeo.ca/) to agree on our 6 "product principles” that guide how we build products. We got them printed to put on our walls. These principles have become our manifesto.
 
 ![Medeo Product Principles 2](/assets/images/articles/product-principles-2.png)
 
@@ -26,7 +26,7 @@ Creating a set of product principles gets everyone on the same page. We now have
 
 It is extremely important to take prioritization seriously— you should get the team to agree on the specific ordering. Most to least important. Every time we disagree about a new feature we can point to our product principles and say that we agreed it’s more important the product be “this" over “that”.
 
-The principles are not a list of features, and they're also not specific to one product - instead they act as a basis and inspiration for any future products we build. Also, product principles are great for anyone looking to join our team. They can immediately understand get what we believe in just by looking at our principles displayed on the wall.
+The principles are not a list of features, and they're also not specific to one product - instead they act as a basis and inspiration for any future products we build. Also, product principles are great for anyone looking to join our team. They can immediately understand what we believe in just by looking at our principles displayed on the wall.
 
 
 ![Medeo Product Principles 3](/assets/images/articles/product-principles-3.png)
