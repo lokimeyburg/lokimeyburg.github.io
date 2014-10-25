@@ -48,7 +48,7 @@ Here are some examples of companies that took a step in a different direction:
 
 ## Assessing feature opportunities
 
-Once you’ve answered “yes” to all these questions it’s time to create what I call a “Feature Opportunity Assessment”. The [Silicon Valley Product Group](http://www.svproduct.com/) use an opportunity assessment for [products](http://www.svproduct.com/assessing-product-opportunities/) as an alternative to a product spec and is intended to clearly and concisely define the problem to be solved. I've been using a slightly modified version that focuses instead on features that make up a product.
+Once you’ve answered “yes” to all these questions it’s time to create what I call a “Feature Opportunity Assessment”. The [Silicon Valley Product Group](http://www.svproduct.com/) use an opportunity assessment for products as an alternative to creating a product spec and is intended to clearly and concisely define the problem to be solved. I've been using a slightly modified version that focuses instead on features that make up a product.
 
 Answering these questions helps you understand what is required to succeed and where to prioritize this feature in your roadmap against other features.
 
