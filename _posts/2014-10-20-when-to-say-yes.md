@@ -42,9 +42,9 @@ The more nuanced decision is deciding *not* to build something because it doesn�
 
 Here are some examples of companies that took a step in a different direction:
 
--  Nintendo built the Wii because they believed video games should be fun & inexpensive while the rest of the industry was building graphically impressive and expensive titles
 - Apple never released a netbook when they became very popular. Analysts [believed](http://www.wired.com/2009/01/apple-still-thi/) they were making a big mistake. Apple released the iPad two years later.
 - Basecamp [doesn’t have gantt charts] (https://gettingreal.37signals.com/ch01_About_37signals.php) that are typically used to manage project schedules because they believe it doesn’t lead to better project management
+- Nintendo built the Wii because they believed video games should be fun & inexpensive while the rest of the industry was building graphically impressive and expensive titles
 
 ## Assessing feature opportunities
 
