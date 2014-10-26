@@ -16,7 +16,7 @@ Often times it’s things that aren’t fancy that you should be focusing on, su
 
 ### Can you support/afford it in the wild?
 
-When you're estimating work with your engineering team you're estimating the “effort required to build something”. Which is why another cost - "the effort required to support the thing being built" -  is often overlooked. Before you think something is a good idea, take a second to consider how much time will be required from you and your team once it's in the hand's of real users.
+When you're estimating work with your engineering team you're estimating the “effort required to build something”. Which is why another cost - "the effort required to support the thing being built" -  is often overlooked. Before you think something is a good idea, take a second to consider how much time will be required from you and your team once it's in the hands of real users.
 
 At Medeo, an app that lets doctors see their patients online, we only allow doctors to video conference using Google Chrome. This is deliberate. It’s not that video calls are impossible on Firefox or Opera, it’s that the cost of supporting every browser (and version number) would take too much time for our small development team.
 
@@ -48,20 +48,19 @@ Here are some examples of companies that took a step in a different direction:
 
 ## Assessing feature opportunities
 
-Once you’ve answered “yes” to these 5 questions it’s time to create what I call a “Feature Opportunity Assessment”. The [Silicon Valley Product Group](http://www.svproduct.com/) use an opportunity assessment for products as an alternative to creating a product spec and is intended to clearly and concisely define the problem to be solved. I've been using a slightly modified version that focuses instead on features that make up a product.
-
-Answering these questions helps you understand what is required to succeed and where to prioritize this feature in your roadmap against other features.
+Once you’ve answered “yes” to these 5 questions it’s time to create what I call a “feature opportunity assessment”. The [Silicon Valley Product Group](http://www.svproduct.com/) use an opportunity assessment for products as an alternative to creating a product spec and is intended to clearly and concisely define the problem to be solved. I've been using a slightly modified version that focuses instead on features that make up a product.
 
 1. Exactly what problem will this solve? (value proposition)
 2. Who exactly is having this problem? (persona)
-3. How many users will use this feature? (number of users)
+3. How many people have this problem? (potential impact)
 4. What alternatives are out there? (competitive landscape)
 5. Why are we best suited to pursue this? (our differentiator)
 6. Why now? (market window)
 8. How will we measure success/make money from this feature? (metrics/revenue strategy)
 
+Creating a "feature opportunity assessment" will help you understand what is required to succeed and where to prioritize this feature in your roadmap.
 
-## Idea to product roadmap
+## Idea to product roadmap. The Guantlet.
 
-Great roadmaps are incredibly hard to build and always require trade-offs. But truly great product managers needs a firm checklist for when they say "yes" to items being added to the roadmap. Compromising on your checklist, even just a little, leads to bloated software. Every feature needs to be brought through a gauntlet of inquiry before it can be promoted to your products roadmap.
+Great roadmaps are incredibly hard to build and always require trade-offs. But truly great product managers need a firm checklist for when they say "yes" to items being added to the roadmap. Compromising on your checklist, even just a little, leads to bloated software. Every feature needs to be brought through a gauntlet of inquiry before it can be promoted to your products roadmap.
 
