@@ -111,6 +111,10 @@ a{
   color: #B4BBBE;
 }
 
+.description-break {
+  display: block;
+}
+
 @media screen and (max-width: 640px){
 
   .portfolio-row {
@@ -135,5 +139,10 @@ a{
     padding-left: 0px;
     font-size: 0.95em;
   }
+
+  .description-break {
+    display: none;
+  }
 }
+
 
