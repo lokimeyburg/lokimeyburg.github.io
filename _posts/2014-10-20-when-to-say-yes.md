@@ -6,6 +6,8 @@ date:   2014-10-20 10:18:00
 
 A lot has been written about saying “no” to feature requests. [Steve Jobs](https://www.youtube.com/watch?v=H8eP99neOVs) said that having focus meant saying "no", [37Signals](http://www.37signals.com) wrote a chapter called [“Start With No”](https://gettingreal.37signals.com/ch05_Start_With_No.php) and [many](http://blog.intercom.io/product-strategy-means-saying-no/) [other](https://www.prodpad.com/2014/05/saying-tough-love-product-managers/) product managers have echoed the same advice. But, when is it time to say “yes” to a feature request? Here are 5 questions I ask before an idea can be promoted to your product's roadmap.
 
+<!--more-->
+
 ### Will it matter in 5 years?
 
 I’m always reminded how quickly things go out of fashion in our industry by looking at designs from a few years ago. What was fashionable or “cool” two years ago looks tacky and outdated today. It’s really tempting to jump onto the newest design trend or integrate with a cool new app because it makes you feel modern.

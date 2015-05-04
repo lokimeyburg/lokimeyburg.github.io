@@ -6,6 +6,8 @@ date:   2014-09-16 10:18:00
 
 I recently got the product team at [Medeo](https://medeo.ca/) to agree on our 6 "product principles” that guide how we build products. We got them printed to put on our walls. These principles have become our manifesto.
 
+<!--more-->
+
 ![Medeo Product Principles 2](/assets/images/articles/product-principles-2.png)
 
 

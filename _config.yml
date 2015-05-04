@@ -6,7 +6,7 @@ markdown: redcarpet
 pygments: true
 logo: false
 paginate: 15
-
+excerpt_separator: <!--more-->
 baseurl: '/'
 
 # Details for the RSS feed generator
