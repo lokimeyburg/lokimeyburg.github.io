@@ -42,8 +42,8 @@ a{
 .blog-description{
   max-width: 660px;
   margin: 0 auto;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .blog-logo img {
