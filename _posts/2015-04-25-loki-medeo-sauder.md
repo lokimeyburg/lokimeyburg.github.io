@@ -2,6 +2,7 @@
 layout: post
 title:  "Mentioned by the Sauder School of Business"
 date:   2015-04-25 10:18:00
+image: "images/articles/og_images/sauder-loki-medeo.png"
 ---
 <a href="/assets/images/articles/sauder-loki-medeo.png" target="_blank">!["Loki Sauder Medeo"](/assets/images/articles/sauder-loki-medeo.png)</a>
 
