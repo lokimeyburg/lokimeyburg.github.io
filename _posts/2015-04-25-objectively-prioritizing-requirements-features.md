@@ -7,11 +7,15 @@ Have you ever been in a heated debate over which feature to build next? Has poli
 
 <!--more-->
 
+<!--
+
 Once you’ve [said ‘yes’ to a feature request](/2014/10/20/when-to-say-yes.html), it’s time to turn it into a requirement that’s going to live in your product’s backlog. Our goal is to give a *score* to our requirement that will determine its priority against other requirements. But before we can do that we need to turn our feature request into a requirement. 
 
-<!-- !["Feature Requests 1"](/assets/images/articles/feature-priority-1.png) -->
+!["Feature Requests 1"](/assets/images/articles/feature-priority-1.png)
 
 Feature requests can come from anywhere: email, Twitter, customer interviews etc. At first glance they may seem unrelated - often times because the customer is asking for a solution and not stating the problem. It’s your job as a Product Manager to read between the lines and determine the real problem the user is experiencing. You should have a few similar feature requests that you can rewrite into one problem statement (aka: a requirement). Focusing on problems instead of requests makes it more manageable since one problem is derived from many (slightly different) requests.
+
+-->
 
 ### Market Evidence
 
