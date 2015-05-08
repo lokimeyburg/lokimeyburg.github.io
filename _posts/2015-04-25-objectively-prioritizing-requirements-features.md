@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "How to Objectively Prioritize Feature Requests"
+title:  "How to Objectively Prioritize Requirements"
 date:   2015-05-06 10:18:00
 ---
-Have you ever been in a heated debate over which feature to build next? Has politics ever decided the order in which things are built? Perhaps the CEO made you build something because an important customer complained, or maybe someone in a meeting spoke passionately about what your team should build next. It’s pretty common for politics and emotion to decide the feature backlog. I’m going to show you a method to objectively prioritize requirements and feature requests.
+Have you ever been in a heated debate over which feature to build next? Has politics ever decided the order in which things are built? Perhaps the CEO made you build something because an important customer complained, or maybe someone in a meeting spoke passionately about what your team should build next. It’s pretty common for politics and emotion to decide the feature backlog. Here I’m going to show you a super simple method to prioritize requirements that tries to stay as objective as possible.
 
 <!--more-->
 
@@ -19,7 +19,7 @@ Feature requests can come from anywhere: email, Twitter, customer interviews etc
 
 ### Market Evidence
 
-The cornerstone of our method is “market evidence”. How many people have asked for this feature? How many people have you spoken to or heard from that have this problem? Evidence is great because it focuses the discussion on something that’s free of opinion or politics.
+The cornerstone of our method is “market evidence”. How many people have asked for this feature? How many people have you spoken to or heard from that have this problem? Evidence is great because it focuses the discussion on something that's not influenced by opinion or feelings.
 
 !["Feature Requests 1"](/assets/images/articles/feature-priority-2.png)
 
