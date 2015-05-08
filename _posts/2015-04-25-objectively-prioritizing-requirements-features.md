@@ -27,7 +27,7 @@ Basing our method on evidence also encourages the person who feels passionately 
 
 ### Impact
 
-The last variable in our calculation is "impact". What value does this provide to the customer? What does it cost us if we don’t do it? The impact score is a number from 1 to 5. It’s important that you sit down with your team and come to an agreement about what each number means. Here's an example of how you might define impact:
+The last variable in our calculation is "impact". What value does this provide to the customer? What does it cost us if we don’t do it? [Which principles are most important to your team?](/2014/09/16/product-principles.html) The impact score is a number from 1 to 5. It’s important that you sit down with your team and come to an agreement about what each number means. Here's an example of how you might define impact:
 
 - 5 points: Won’t buy without this feature. We lose a premium customer.
 - 4 points: Customer loses time or money. We lose a regular customer.
@@ -45,7 +45,7 @@ Finally we multiply the numbers together to get our final score. Order your requ
 
 One problem someone might identify is that moving through the list from top to bottom is not always the most efficient. They're right. Moving between unrelated tasks can be quite costly. Instead, group the list of problems by market segment, key strategic initiatives, personas or any method that logically makes sense. For agile folks, these groups would be considered 'epics'. The epic with the highest total score should be the one you work on next. 
 
-You may wish to modify the formula slightly depending on your company's overall strategy. For example I often add an additional multiplier called "urgency" when working with startups. It's designed to account for the fact that some problems only have a small window of opportunity. If you have to do something in the next three months, give it an urgency score of 2. You can even use half-point numbers such as 1.5 or 0.5 to encourage or discourage certain criteria. Perhaps you're a SaaS company and features people will pay for are more important, so you may consider adding a "will pay us" multiplier instead.
+You may wish to modify the formula slightly depending on your company's overall strategy. For example you might add an additional multiplier called "urgency" when working in a startup. It's designed to account for the fact that some problems only have a small window of opportunity. If you have to do something in the next three months, give it an urgency score of 2. You can even use half-point numbers such as 1.5 or 0.5 to encourage or discourage certain criteria.
 
 > score = evidence &times; impact &times; urgency
 
