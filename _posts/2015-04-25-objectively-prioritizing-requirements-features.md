@@ -29,11 +29,11 @@ Basing our method on evidence also encourages the person who feels passionately 
 
 The last variable in our calculation is "impact". What value does this provide to the customer? What does it cost us if we don’t do it? The impact score is a number from 1 to 5. It’s important that you sit down with your team and come to an agreement about what each number means. Here's an example of how you might define impact:
 
-1. Other. There’s a workaround.
-2. Customer finds it difficult to achieve their secondary goal. Need another product to solve.
-3. Customer finds it difficult to achieve their primary goal. No other solution exists.
-4. Customer loses time or money. We lose a regular customer.
-5. Won’t buy without this feature. We lose a premium customer.
+- 5 points: Won’t buy without this feature. We lose a premium customer.
+- 4 points: Customer loses time or money. We lose a regular customer.
+- 3 points: Customer finds it difficult to achieve their primary goal. No other solution exists.
+- 2 points: Customer finds it difficult to achieve their secondary goal. Need another product to solve.
+- 1 point: Other. There’s a workaround.
 
 You can also have an impact score of 100,000 which is reserved for extreme cases - such as when the government mandates certain security features.
 
