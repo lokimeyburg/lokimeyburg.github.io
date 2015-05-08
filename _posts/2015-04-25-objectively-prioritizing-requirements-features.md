@@ -3,7 +3,7 @@ layout: post
 title:  "How to Objectively Prioritize Feature Requests"
 date:   2015-05-06 10:18:00
 ---
-Have you ever been in a heated debate over which feature to build next? Has politics ever decided the order in which things are built? Perhaps the CEO made you build something because an important customer complained, or maybe someone in a meeting spoke passionately about what your team should build next. It’s pretty common for politics and emotion to decide the feature backlog. I’m going to show you how to prioritize requirements and feature requests in a way that can not be influenced by personal feelings or opinions.
+Have you ever been in a heated debate over which feature to build next? Has politics ever decided the order in which things are built? Perhaps the CEO made you build something because an important customer complained, or maybe someone in a meeting spoke passionately about what your team should build next. It’s pretty common for politics and emotion to decide the feature backlog. I’m going to show you a method to objectively prioritize requirements and feature requests.
 
 <!--more-->
 
@@ -19,11 +19,11 @@ Feature requests can come from anywhere: email, Twitter, customer interviews etc
 
 ### Market Evidence
 
-The cornerstone of our priority score is “market evidence”. How many people have asked for this feature? How many people have you spoken to or heard from that have this problem? Evidence is great because it focuses the discussion on something that’s free of opinion or politics.
+The cornerstone of our method is “market evidence”. How many people have asked for this feature? How many people have you spoken to or heard from that have this problem? Evidence is great because it focuses the discussion on something that’s free of opinion or politics.
 
 !["Feature Requests 1"](/assets/images/articles/feature-priority-2.png)
 
-Basing your priority score on evidence also encourages the person who feels passionately about a feature to go and collect more evidence if they want it built sooner. Perhaps it’s a great idea, but you need convincing evidence before you can start. Don’t speculate about how many people the feature *might* impact. If you feel like it’s going to be used by a large majority of the user base - then do a big survey! It’s important that the burden is on you to collect cold hard evidence.
+Basing our method on evidence also encourages the person who feels passionately about a feature to go and collect more evidence if they want it built sooner. Perhaps it’s a great idea, but you need convincing evidence before you can start. Don’t speculate about how many people the feature *might* impact. If you feel like it’s going to be used by a large majority of the user base - then do a big survey! It’s important that the burden is on you to collect cold hard evidence.
 
 ### Impact
 
