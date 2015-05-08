@@ -19,11 +19,11 @@ Feature requests can come from anywhere: email, Twitter, customer interviews etc
 
 ### Market Evidence
 
-The cornerstone of our method is “market evidence”. How many people have asked for this feature? How many people have you spoken to or heard from that have this problem? Evidence is great because it focuses the discussion on something that's not influenced by opinion or feelings.
-
-!["Feature Requests 1"](/assets/images/articles/feature-priority-2.png)
+The cornerstone of this method is “market evidence”. How many people have asked for this feature? How many people have you spoken to or heard from that have this problem? Evidence is great because it focuses the discussion on something that's not influenced by opinion or feelings.
 
 Basing our method on evidence also encourages the person who feels passionately about a feature to go and collect more evidence if they want it built sooner. Perhaps it’s a great idea, but you need convincing evidence before you can start. Don’t speculate about how many people the feature *might* impact. If you feel like it’s going to be used by a large majority of the user base - then do a big survey! It’s important that the burden is on you to collect cold hard evidence.
+
+!["Prioritize Feature Request Requirements"](/assets/images/articles/feature-priority-2.png)
 
 ### Impact
 
@@ -41,7 +41,7 @@ You can also have an impact score of 100,000 which is reserved for extreme cases
 
 Finally we multiply the numbers together to get our final score. Order your requirements with the highest scores at the top. This is the order in which you should work on things. When new requirements get created add them in the list in the right order. It's that easy!
 
-!["Feature Requests 1"](/assets/images/articles/feature-priority-3.png)
+!["Prioritize Feature Request Requirements"](/assets/images/articles/feature-priority-3.png)
 
 One problem someone might identify is that moving through the list from top to bottom is not always the most efficient. They're right. Moving between unrelated tasks can be quite costly. Instead, group the list of problems by market segment, key strategic initiatives, personas or any method that logically makes sense. For agile folks, these groups would be considered 'epics'. The epic with the highest total score should be the one you work on next. 
 
