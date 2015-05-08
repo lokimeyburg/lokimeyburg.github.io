@@ -3,13 +3,13 @@ layout: post
 title:  "How to Objectively Prioritize Feature Requests"
 date:   2015-05-06 10:18:00
 ---
-Have you ever been in a heated debate over which feature to build next? Has politics ever decided the order in which things are built? Perhaps the CEO made you build something because an important customer complained, or maybe someone in a meeting spoke passionately about what your team should build next. It’s pretty common at any software company for politics and emotion to decide the feature backlog. I’m going to show you how to prioritize requirements and feature requests in a way that can not be influenced by personal feelings or opinions.
+Have you ever been in a heated debate over which feature to build next? Has politics ever decided the order in which things are built? Perhaps the CEO made you build something because an important customer complained, or maybe someone in a meeting spoke passionately about what your team should build next. It’s pretty common for politics and emotion to decide the feature backlog. I’m going to show you how to prioritize requirements and feature requests in a way that can not be influenced by personal feelings or opinions.
 
 <!--more-->
 
 Once you’ve [said ‘yes’ to a feature request](/2014/10/20/when-to-say-yes.html), it’s time to turn it into a requirement that’s going to live in your product’s backlog. Our goal is to give a *score* to our requirement that will determine its priority against other requirements. But before we can do that we need to turn our feature request into a requirement. 
 
-!["Feature Requests 1"](/assets/images/articles/feature-priority-1.png)
+<!-- !["Feature Requests 1"](/assets/images/articles/feature-priority-1.png) -->
 
 Feature requests can come from anywhere: email, Twitter, customer interviews etc. At first glance they may seem unrelated - often times because the customer is asking for a solution and not stating the problem. It’s your job as a Product Manager to read between the lines and determine the real problem the user is experiencing. You should have a few similar feature requests that you can rewrite into one problem statement (aka: a requirement). Focusing on problems instead of requests makes it more manageable since one problem is derived from many (slightly different) requests.
 
