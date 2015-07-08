@@ -9,11 +9,6 @@ logo: '/assets/images/profile.jpg'
 <header class="site-head" {% if page.cover %} style="background-image: url({{ page.cover }})"{% endif %}>
     <div class="vertical">
         <div class="site-head-content" class="inner">
-            {% if page.logo %}
-                <a class="blog-logo" href="{{ site.baseurl }}assets/images/lokimeyburg.jpg">
-                    <img src="{{ page.logo }}" alt="Loki Meyburg" />
-                </a>
-            {% endif %}
             <h1 class="blog-title">{{ site.name }}</h1>
             <h2 class="blog-description"> 
                 This is where I write about product management. <div class="description-break"></div>
@@ -22,6 +17,7 @@ logo: '/assets/images/profile.jpg'
         </div>
     </div>
 </header>
+
 
 <main class="content" role="main">
   <article class="homepage-blurb">
