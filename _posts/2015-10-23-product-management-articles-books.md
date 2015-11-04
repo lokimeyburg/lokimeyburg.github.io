@@ -11,7 +11,7 @@ I frequently get asked if there are any articles that I can recommend to someone
 ### Level 0 - What is Product Management?
 
 *   **[A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec)** - _Josh Elman_
-*   **[Product Managers: Who are these ‘mini-CEOs’ and what do they do?](http://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/)** - _Ken Yeung_
+*   **[Product Managers: Who are these ‘mini-CEOs’?](http://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/)** - _Ken Yeung_
 *   **[What exactly is a Product Manager?](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/)** - _Martin Eriksonn_
 *   **[What is Product Management?](http://www.sachinrekhi.com/blog/2013/01/28/what-is-product-management)** **/** **[Slideshare version](http://www.sachinrekhi.com/blog/2013/08/25/presentation-what-is-product-management)** _- Sachin Rekhi_
 *   **[PM at Microsoft](http://blogs.msdn.com/b/techtalk/archive/2005/12/16/504872.aspx)** - _Steven Sinofsky_
@@ -163,7 +163,7 @@ I frequently get asked if there are any articles that I can recommend to someone
 *   **[Good Product Manager, Bad Product Manager](http://benhorowitz.files.wordpress.com/2010/05/good-product-manager.pdf)** - _Ben Horowitz_
 *   **[Be a great product leader](http://blog.adamnash.com/2011/12/16/be-a-great-product-leader/)** - _Adam Nash_
 *   **[Top 10 product leadership lessons](http://blog.adamnash.com/2012/03/06/top-10-product-leadership-lessons/)** - _Adam Nash_
-*   **[What distinguishes the top 1% of Product Managers from the top 10?%](https://www.quora.com/What-distinguishes-the-Top-1-of-Product-Managers-from-the-Top-10/answer/Ian-McAllister?srid=3wR&st=ns)** - _Ian McAllister_
+*   **[What distinguishes the top 1% of Product Managers from the top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-Product-Managers-from-the-Top-10/answer/Ian-McAllister?srid=3wR&st=ns)** - _Ian McAllister_
 *   **[What makes someone a great Product Manager at Google?](https://www.quora.com/What-makes-someone-a-great-product-manager-at-Google)** - _Edward Ho_
 *   **[What innate traits do great internet product leaders share?](https://www.quora.com/What-innate-traits-do-great-Internet-product-leaders-share)** - _Chris Wetherell_
 *   **[Musings on Product Management](http://blog.parsely.com/post/907/musings-on-product-management/)** - _Mike Sukmanowsky_
