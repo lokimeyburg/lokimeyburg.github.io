@@ -21,6 +21,7 @@ I frequently get asked if there are any articles that I can recommend to someone
 *   **[Product Management vs. Product Marketing](http://www.svproduct.com/product-management-vs-product-marketing/)** - _Marty Cagan_
 *   **[Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579)** - _Ellen Chisa_
 *   **[Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html)** - _Bruce McCarthy_
+*   **[The Black Box of Product Management](https://medium.com/swlh/the-black-box-of-product-management-3feb65db6ddb)** - _Brandon Chu_
 
 
 ### Level 1 - Is it really for you?
