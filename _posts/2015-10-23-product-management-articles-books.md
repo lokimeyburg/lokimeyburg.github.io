@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Product Management Articles and Books"
-date:   2015-10-23 10:18:00
+date:   2016-09-23 10:18:00
 ---
 
 I frequently get asked if there are any articles that I can recommend to someone thinking about going into Product Management. Here's a very comprehensive list of articles and books that I maintain.
