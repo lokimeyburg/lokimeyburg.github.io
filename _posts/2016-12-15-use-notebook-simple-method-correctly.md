@@ -10,7 +10,7 @@ This also meant that we were taught a very simple method on how to use a noteboo
 
 <!--more-->
 
-All of my notebook’s pages are numbered, and I always let the first four pages of my notebook be my Table of Contents. (I manually number my pages a little ahead every now and then). I keep track of months in my Table of Contents so that I can quickly jump to a specific page number to find the beginning of that month. I also keep track of important notes like “ideas for new team structures" or “call with phone company about my order”. Basically, I put the page numbers of each month and other meaningful pages into my Table of Contents. It’s something I learned in cadets as the proper way to organize and use a notebook.
+All of my notebook’s pages are numbered, and I always let the first four pages of my notebook be my Table of Contents. (I manually number my pages in big batches every now and then). I keep track of months in my Table of Contents so that I can quickly jump to a specific page number to find the beginning of that month. I also keep track of important notes like “ideas for new team structures" or “call with phone company about my order”. Basically, I put the page numbers of each month and other meaningful pages into my Table of Contents. It’s something I learned in cadets as the proper way to organize and use a notebook.
 
 That's it! Just track your page numbers and maintain a Table of Contents. It's "just enough process" (I really like that idea).
 
