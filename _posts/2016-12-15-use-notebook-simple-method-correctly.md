@@ -14,6 +14,9 @@ All of my notebook’s pages are numbered, and I always let the first four pages
 
 That's it! Just track your page numbers and maintain a Table of Contents. It's "just enough process" (I really like that idea).
 
+!["Notebook with table of contents example"](/assets/images/articles/notebook-table-of-contents.jpg)
+
+
 Also, I have a reminder written in the beginning of my notebooks (just a habit I've built over the years, I guess). It should give you an idea of the purpose of the notebook.
 
 > This notebook is my second brain.
