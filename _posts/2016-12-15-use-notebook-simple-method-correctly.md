@@ -6,7 +6,7 @@ date:   2016-12-15 10:18:00
 
 When I grew up in a military boarding school in South Africa, you would never find a student without his pen and small notebook. That's because it was a punishable offence for a junior officer to not have his pen or notebook with them - even while they were wearing civvies.
 
-This also meant we were taught a very simple method on how to use a notebook correctly. I'm surprised to see people have either neither heard of this method, or have the [most complex notebooks](http://becomeawritertoday.com/gtd-moleskine-notebook/) I've ever seen. If it involves sticky notes, then it's already too complex. (You can thank my wife for making me write this article because at first I thought this was mostly common knowledge). Here it is:
+This also meant we were taught a very simple method on how to use a notebook correctly. I'm surprised to see people have either never heard of this method, or have the [most complex notebooks](http://becomeawritertoday.com/gtd-moleskine-notebook/) I've ever seen. If it involves sticky notes, then it's already too complex. (You can thank my wife for making me write this article because at first I thought this was mostly common knowledge). Here it is:
 
 <!--more-->
 
