@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My 2017 New Years Resolutions"
+title:  "My 2017 New Year's Resolutions"
 date:   2017-01-09 10:18:00
 ---
 
