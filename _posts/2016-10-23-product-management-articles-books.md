@@ -69,6 +69,7 @@ I frequently get asked if there are any articles that I can recommend to someone
 *   **[How to structure and get the most out of customer development interviews](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/)** - _Jason Evanish_
 *   **[The customer is always right. Except when they aren’t](http://wadefoster.net/post/57403834478/the-customer-is-always-right-except-when-they-arent)** - _Wade Foster_
 *   **[Your MVP is about discovery not product](http://kevindewalt.com/2013/07/14/your-mvp-is-about-discovery-not-product/)** - _Kevin Dewalt_
+*   **[12 things about product-market-fit](http://a16z.com/2017/02/18/12-things-about-product-market-fit/)** - _Tren Griffin_
 
 ### Level 5 - Requirements!
 
