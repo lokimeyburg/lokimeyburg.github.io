@@ -6,8 +6,7 @@ date:   2017-04-09 10:18:00
 
 *Markets* are such a nebulous thing. *Markets* can feel like yet another business term (YABT™ ) that tries to *objectively* categorize something as *subjective* as “demand” or “people’s problems”*.* But that doesn’t mean it’s not an incredibly important idea! In fact, thinking in terms of *markets* has probably been one of the most important skills I’ve learned when I first started bringing new ideas and products to the masses that need them. The problem with “*market”* being such a vague term is that people talk about their own market with similar reckless imprecision.
 
-
-https://d2mxuefqeaa7sj.cloudfront.net/s_542E78D7C085F06BDC0AF4A4EEC70BB4426EB6E34FC4379B0546BEE43EC5A43D_1492067231537_Screen+Shot+2017-04-13+at+12.06.41+AM.png
+![Lake 1](/assets/images/articles/lake-1.png)
 
 <!--more-->
 
@@ -38,14 +37,12 @@ Rule: You are never allowed to talk about your market vaguely or imprecisely. Ye
 In this example, let’s pretend that I’m building a scheduling app for family doctors. OK, even though I could sell (or fish) anywhere in the world, the reality is, we all have to start selling (fishing) in one location. So for now, let’s say I’m going to start selling in British Columbia, Canada. How many GPs are there in BC? Well, I could estimate the total number of doctors quite accurately using [various estimation techniques](https://www.cpsbc.ca/physician_search), but luckily the BC Government has a [directory of physicians](https://www.cpsbc.ca/physician_search) which I can scrape to get the complete list. The total is around ~5500 family doctors. So that’s the size of my lake. There are 5500 fish that I could catch.
 
 
-https://d2mxuefqeaa7sj.cloudfront.net/s_542E78D7C085F06BDC0AF4A4EEC70BB4426EB6E34FC4379B0546BEE43EC5A43D_1492070017331_New+Mockup+2.png
+![Lake 2](/assets/images/articles/lake-2.png)
 
 
 Next, we want to get as much relevant information about each person on that list. My assumption is that family doctors that are young, with a professional website, in high-income areas are more likely to buy from me. In addition, my other hypothesis is that any doctor that’s 1 using a scheduling tool may be inclined to buy from me since they have had such a terrible experience with their current/old scheduling tool. All of these data points take time to get but is possible. I can use the [BC census data](http://globalnews.ca/news/370804/income-by-postal-code/) to determine the average income by postal code. I could use a tool like [Built With](https://builtwith.com/) to determine which (if any) scheduling tool is running on a family doctor’s website. You can also retrieve Yelp or other review scores to determine the customer friendliness of the clinic. You could put up a Craigslist ad and offer to pay someone $100 if they go through the list and mark everyone they think comes from Austria, Germany or Switzerland (where healthcare is of a very high quality and therefor they’d be more inclined to buy from me). Money spent doing this research is much less expensive than any kind of engineering work.
 
-
 > “In the early days of a product, don’t focus on making it robust. Find product market fit first, then harden” — Jeff Lawson
-
 
 ## Fishing Techniques (and Your Target Market) 
 
@@ -56,18 +53,15 @@ If you’ve ever gone fishing at a remote lake you’ll know that there’s alwa
 1. Fishing in daylight near shallow beaches 
 2. Use floaters when it’s raining outside but stay on the east coast
 
+![Lake 3](/assets/images/articles/lake-3.png)
 
-https://d2mxuefqeaa7sj.cloudfront.net/s_542E78D7C085F06BDC0AF4A4EEC70BB4426EB6E34FC4379B0546BEE43EC5A43D_1492000227038_Screen+Shot+2017-04-12+at+4.12.33+AM.png
-https://d2mxuefqeaa7sj.cloudfront.net/s_542E78D7C085F06BDC0AF4A4EEC70BB4426EB6E34FC4379B0546BEE43EC5A43D_1492000236851_Screen+Shot+2017-04-12+at+4.12.33+AM+copy.png
-
+![Lake 4](/assets/images/articles/lake-4.png)
 
 Ok, now what about doing the same thing for our list if doctors? Below is a very simple example where I’m adding up values - one after another - but it can be much more complex if you allow it. For example: we can make it so that if the doctor does not have a website then we will automatically give them a score of 5% overall (because they can’t buy our online scheduling app anyway then). It helps to circulate the list of criteria to around 5-7 people who know the market well and ask them what percentages they might give certain criteria (and ask them why they think your suggestions were too high or too low). This will ensure your numbers/percentages are supported by a few more people’s experienced opinion. 
 
 Here’s a very simple illustration on how we give a doctor a score  93 / 100:
 
-
-https://d2mxuefqeaa7sj.cloudfront.net/s_542E78D7C085F06BDC0AF4A4EEC70BB4426EB6E34FC4379B0546BEE43EC5A43D_1491995634031_Screen+Shot+2017-04-12+at+4.12.06+AM.png
-
+![Lake 5](/assets/images/articles/lake-5.png)
 
 If we wanted, we could’ve created a much more complex method to give each doctor a score. It really depends on how detailed you want to get, and how well you know the criteria you’ve identified as being important. Next, let ’s calculate the score of every doctor. Remember, the higher the score, the more likely we think they are to buy from us. 
 
@@ -82,8 +76,8 @@ If we wanted, we could’ve created a much more complex method to give each doct
 Ok, so if the green and yellow sections (shown above) usually only get your money back (to break-even), then how do I everyone else below that? Ah, yes! Good question. There’s literally a book written about this very dilemma called [Crossing The Chasm](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/ref=sr_1_1). Simply put, you’ve just discovered why it’s easy to get the Innovators (green) and Early Adopters (yellow) and now you’re wondering “who do I cross the chasm” and catch the rest of the fish in my pond. I highly recommend reading [Crossing The Chasm](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/ref=sr_1_1) to not only understand that 1) this is a very normal problem almost everyone faces in new product development and 2) crossing the chasm is like the Oregan Trail of startups: special arrangements need to made, it’s expensive and you might lose a few people on the way.
 
 
-https://d2mxuefqeaa7sj.cloudfront.net/s_542E78D7C085F06BDC0AF4A4EEC70BB4426EB6E34FC4379B0546BEE43EC5A43D_1492072091568_Chasm.png
 
+![Lake 6](/assets/images/articles/lake-6.png)
 
 
 ## So Long and Thanks For All The Fish (What’s next?)
