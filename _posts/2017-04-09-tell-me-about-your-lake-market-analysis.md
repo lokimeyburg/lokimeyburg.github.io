@@ -4,7 +4,7 @@ title:  "Tell Me About Your Lake (And Other Market Analysis Analogies)"
 date:   2017-04-09 10:18:00
 ---
 
-*Markets* are such a nebulous thing. *Markets* can feel like yet another business term (YABT™ ) that tries to *objectively* categorize something as *subjective* as “demand” or “people’s problems”*.* But that doesn’t mean it’s not an incredibly important idea! In fact, thinking in terms of *markets* has probably been one of the most important skills I’ve learned when I first started bringing new ideas and products to the masses that need them. The problem with “*market”* being such a vague term is that people talk about their own market with similar reckless imprecision.
+*Markets* are such a nebulous thing. *Markets* can feel like yet another business term (YABT™) that tries to *objectively* categorize something as *subjective* as “demand” or “people’s problems”*.* But that doesn’t mean it’s not an incredibly important idea! In fact, thinking in terms of *markets* has probably been one of the most important skills I’ve learned when I first started bringing new ideas and products to the masses that need them. The problem with “*market”* being such a vague term is that people talk about their own market with similar reckless imprecision.
 
 ![Lake 1](/assets/images/articles/lake-1.png)
 
