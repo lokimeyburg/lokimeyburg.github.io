@@ -3,7 +3,7 @@ description: "This is where I write about tech, mobile & startups."
 meta_description: "Building great things"
 
 markdown: kramdown
-pygments: true
+highlighter: rouge
 logo: false
 paginate: 15
 excerpt_separator: <!--more-->
