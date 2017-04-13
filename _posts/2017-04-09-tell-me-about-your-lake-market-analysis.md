@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tell Me About Your Lake (… and other Market Analysis Analogies) Part 1"
+title:  "Tell Me About Your Lake (And Other Market Analysis Analogies)"
 date:   2017-04-09 10:18:00
 ---
 

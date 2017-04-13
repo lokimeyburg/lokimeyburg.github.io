@@ -12,3 +12,10 @@ baseurl: '/'
 # Details for the RSS feed generator
 url:            'http://www.lokimeyburg.com'
 author:         'Loki Meyburg'
+
+gems: ['jekyll-paginate']
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
