@@ -11,11 +11,14 @@ After that point you need to be on top of things – managing your product and d
 But like a ski run, your  rst few months in a new job will be over far too quickly.
 So to help you, we’ve provided this checklist of what you need to do in the first 90 days. Good luck!
 
+
+![New PMC](/assets/images/articles/new-PM-job.png)
+
 <!--more-->
 
 ## Before You Start
 
-- [] Read [The First 90 Days](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612/ref=sr_1_1?ie=UTF8&qid=1492131694&sr=8-1&keywords=The+First+90+Days%2C+Updated+and+Expanded%3A+Proven+Strategies+for+Getting+Up) which is required reading at many MBA programs
+- Read [The First 90 Days](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612/ref=sr_1_1?ie=UTF8&qid=1492131694&sr=8-1&keywords=The+First+90+Days%2C+Updated+and+Expanded%3A+Proven+Strategies+for+Getting+Up) which is required reading at many MBA programs
 - Check the LinkedIn details of your boss and company. Also review competitor websites
 - Review any recent or noteworthy news about the company in the media
 
