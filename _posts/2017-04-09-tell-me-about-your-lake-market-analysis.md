@@ -57,7 +57,7 @@ If you’ve ever gone fishing at a remote lake you’ll know that there’s alwa
 
 ![Lake 4](/assets/images/articles/lake-4.png)
 
-Ok, now what about doing the same thing for our list if doctors? Below is a very simple example where I’m adding up values - one after another - but it can be much more complex if you allow it. For example: we can make it so that if the doctor does not have a website then we will automatically give them a score of 5% overall (because they can’t buy our online scheduling app anyway then). It helps to circulate the list of criteria to around 5-7 people who know the market well and ask them what percentages they might give certain criteria (and ask them why they think your suggestions were too high or too low). This will ensure your numbers/percentages are supported by a few more people’s experienced opinion. 
+Ok, now what about doing the same thing for our list of doctors? Below is a very simple example where we're adding up values one after another - but, if you want, it can be much more complex and intricate. For example: we can make it so that if the doctor does not have a website then we will automatically give them a score of 5% overall (because they can’t buy our online scheduling app anyway then). It helps to circulate the list of criteria to around 5-7 people who know the market well and ask them what percentages they might give certain criteria (and ask them why they think your suggestions were too high or too low). This will ensure your numbers/percentages are supported by a few more people’s experienced opinion. 
 
 Here’s a very simple illustration on how we give a doctor a score  93 / 100:
 
