@@ -1,30 +1,30 @@
 ---
 layout: post
-title:  "Tell Me About Your Lake (And Other Market Analysis Analogies)"
+title:  "Tell Me About Your Lake (and other market analysis analogies)"
 date:   2017-04-09 10:18:00
 ---
 
-*Markets* are such a nebulous thing. *Markets* can feel like yet another business term (YABT™) that tries to *objectively* categorize something as *subjective* as “demand” or “people’s problems”. But that doesn’t mean it’s not an incredibly important concept! In fact, thinking in terms of *markets* has probably been one of the most important skills I’ve learned early in my career. The problem with the word *“market”* being such a vague term is that people talk about markets with reckless imprecision.
+*Markets* are such a nebulous thing. *Markets* can feel like yet another business term (YABT™) that tries to *objectively* categorize something as *subjective* as “demand” or “people’s problems”. But that doesn’t mean it’s not an incredibly important concept! In fact, thinking in terms of *markets* has probably been one of the most important skills I learned early in my career. The problem with the word *“market”* being such a vague term is that people talk about markets with reckless imprecision.
 
 ![Lake 1](/assets/images/articles/lake-1.png)
 
 <!--more-->
 
-When I taught Product Management, some students would struggle to think in terms of *markets* - often they found the concept daunting and unfamiliar - so instead, I would encourage everyone to think and talk about their market as if though it was a fishing lake. *Markets* are vague - *lakes* are crystal clear! 
+Often my students would struggle to think in terms of *markets* - they found the concept daunting and unfamiliar - so instead, I encourage them to think and talk about their market as if though it was a fishing lake. *Markets* are vague - *lakes* are crystal clear! 
 
-I love asking this question to any new entrepreneur: *“tell me about your lake and how you plan to fish there”*. To me (and hopefully to them) their lake is more important than *how* they’ve decided to go about catching the fish.
+I love asking this question to an entrepreneur: *"tell me about your lake"*. To me (and hopefully to them) their lake is more important than *how* they’ve decided to go about fishing from the lake.
 
-- How big is your lake?
-- What’s the fish like?
+- How big is the lake?
+- What are the fish like?
 - How do I get there?
 - Who else fishes there? 
-- Why haven’t more people found your lake?
+- Why haven’t more people found this lake?
 
 When people talk about their market in terms of a lake, it’s easier for everyone involved and gets everyone on the same page. Now when someone says *market*, everyone clearly pictures a place where there is a limited amount of fish(buyers) for people to catch. 
 
 > Give me a giant market — always. My position has always been: you find a great market and you build multiple companies in that market. Our view has always, preferably, been: give us a technical problem, give us a big market when that technical problem is solved so we can sell lots and lots and lots of stuff. Do I like to do that with terrific people? Sure. Are we unwilling to invest in companies that don’t have them? Sure. We invested in Apple when Steve Jobs was about eighteen or nineteen years old — not only didn’t he go to Harvard Business School, he didn’t go to any school. — Don Valentine
 
-Where new excited entrepreneurs get confused is when they think *demand* is the *market.* Demand, by itself, does not make a market: people wanting to pay money to solve a problem is an indication there *may* be a market, but markets should be massive.Invest in big markets first (always) and then build a company (or two) around that market.
+Where new excited entrepreneurs get confused is when they think "demand" *is* the "market". Demand, by itself, does not make a market: people wanting to pay money to solve a problem is an indication there *may* be a market, but markets should be massive.Invest in big markets first (always) and then build a company (or two) around that market.
 
 Here’s an example: your new fledgling product is beginning to grow. You’ve got 20 or so happy customers, all paying to use your minimum viable product and you’re signing up about 1 new customer per day from word-of-mouth alone. Are you onto something big? *Is it time to quit your day job and hire some developers?* Stop! Wait a second! *Tell me about your lake.* We’ve all gone fishing before and caught *some* fish, but that doesn’t mean we’re going to pack up everything and move to the lake for a few years because the lake is clearly such a lucrative opportunity! You better be very certain that the lake you want to be fishing from (for a few years) is big enough and worth the commitment. To be clear: you’re not interested in catching 20 fish - that’s easy - you’re interested in catching thousands or millions of fish. Once you’ve found and analyzed your lake (size, number of fish, etc), then it’s just a matter of getting better at fishing *from* the lake (different approaches, more fisherman, new lures, etc).
 
