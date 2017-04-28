@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Your New Product Management Job (and what to do in the first 90 days)"
+title:  "Your New Product Management Job (and What to Do in the First 90 Days)"
 date:   2017-03-29 10:18:00
 ---
 
