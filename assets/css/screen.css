@@ -371,9 +371,10 @@ margin on the iframe, cause it breaks stuff. */
     height: 60%;
     margin-bottom: 5rem;
     text-align: center;
-    color: #fff;
+    color: #50585D;
+    /* color: #fff; */
     /* background: #303538 no-repeat center center; */
-    background: #2B648F url('/assets/images/bg.png') no-repeat center center;
+    /* background: #2B648F url('/assets/images/bg.png') no-repeat center center; */
     background-size: cover;
 }
 

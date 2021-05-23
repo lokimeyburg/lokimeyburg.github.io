@@ -4,8 +4,8 @@
 body {font-size: 1.9rem;}
 
 /* Adding some text shadow*/
-.site-head {text-shadow: 1px 1px 1px #234;}
-.site-head a {color:#eee;}
+/* .site-head {text-shadow: 1px 1px 1px #234;}
+.site-head a {color:#eee;} */
 
 /* The font is too large in the post view. Revert to small size*/
 .post-header .blog-title {font-size:inherit;}
